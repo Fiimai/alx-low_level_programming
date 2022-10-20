@@ -6,15 +6,15 @@
  * Description: This function prints the last digit of a number
  * Return: last digit of number r
  */
-int print_last_digit(int a)
+int print_last_digit(int r)
 {
-	int x;
+	int n;
 
-	if (a < 0)
-		x = -1 * (a % 10);
+	if (r < 0)
+		n = -1 * (r % 10);
 	else
-		x = a % 10;
+		n = r % 10;
 
-	_putchar((x % 10) + '0');
-	return (x % 10);
+	_putchar((n % 10) + '0');
+	return (n % 10);
 }
