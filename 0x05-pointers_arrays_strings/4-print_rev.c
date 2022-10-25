@@ -3,7 +3,7 @@
 /**
 * print_rev - a funtion that prints a string, and in reverse,
 * also followed by a new line
-* @str: an input string
+* @g: an input string
 * Return: Nothing
 */
 void print_rev(char *g)
