@@ -1,5 +1,5 @@
-#ifndef FILE_MAIN
-#define FILE_MAIN
+#ifndef MAIN_H
+#define MAIN_H
 
 /* This is a list of prototypes required from task 0 */
 
