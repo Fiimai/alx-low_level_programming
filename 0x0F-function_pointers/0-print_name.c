@@ -1,4 +1,4 @@
-#include "variadic_functions.h"
+#include "functions_pointers.h"
 
 /**
 * print_name - prints a name.
